@@ -8,7 +8,7 @@
     <h1><strong>Things Everyone Should Have At Home Somewhere</strong></h1><br>
     <p>Home may be where the heart is—but it should also be where you keep a lot of other important stuff, too.</p><br>
 
-    <h2><b>Tools & Supplies</b></h2>
+    <h2><b>Tools&Supplies</b></h2>
   <ul>
     <li>A flathead screwdriver</li>
     <li>A Phillips head screwdriver</li>
